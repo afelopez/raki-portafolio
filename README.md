@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PORTAFOLIO PERSONAL
 
 Guia para instalar y subir:
@@ -19,3 +20,7 @@ Guia para instalar y subir:
 * Deployment instructions
 
 * ...
+=======
+# raki-portafolio
+Portafolio personal
+>>>>>>> 52ff5222ecb9dc1b970e71a56aeb7e21a8955e5f
