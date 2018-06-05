@@ -4,8 +4,8 @@
 
 - Version de Ruby: 2.5.0p0 (2017-12-25 revision 61468) [x86_64-linux]
 - Dependencias del sistema (gemas):
- * pg
- * devise
+  * pg
+  * devise
 
 ### Características
 
