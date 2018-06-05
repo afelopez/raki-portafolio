@@ -6,7 +6,7 @@
 * Dependencias del sistema (gemas):
 
 ### Características
-	- Chat en tiempo real para los comentarios
-	- Blog
-	- Catálogo
-	- Interface con Drag and Drop
+- Chat en tiempo real para los comentarios
+- Blog
+- Catálogo
+- Interface con Drag and Drop
